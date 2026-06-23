@@ -1,4 +1,4 @@
-<img width="100%" height="250" alt="ecaa8b7b-200a-4fd9-93c6-7da6574c7969" src="https://github.com/user-attachments/assets/c5972cac-cc83-4be3-98e9-cd0c2940f36b" />
+<img width="100%" height="250" alt="Image" src="https://github.com/user-attachments/assets/5d334a34-7794-4c58-9967-5a9e3e9efed2" />
 
 ## `failytale@github:~$ whoami`
 
@@ -96,4 +96,4 @@ Email    : mail@gmail.com
 GitHub   : github.com/failytale
 ```
 
-<img width="100%" height="292" alt="image_2026-06-02_21-00-51" src="https://github.com/user-attachments/assets/e61bf1b8-f9fd-4bf3-be9f-5da92bc71901" />
+<img width="100%" height="292" alt="Image" src="https://github.com/user-attachments/assets/bcd10553-d4bd-4339-a004-bb33591bfdc2" />
