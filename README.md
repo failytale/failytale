@@ -61,7 +61,7 @@ goal: Test Automation
 ```
 ## `failytale@github:~$ tree pet_projects`
 
-### 📂 [api-testing-project](https://github.com/failytale)
+### 📂 [api-testing-project](https://github.com/failytale/api-testing-project)
 
 ```text
 api-testing-project
@@ -91,8 +91,8 @@ api-testing-project
 ## `failytale@github:~$ cat contacts.txt`
 
 ```text
-Telegram : @username
-Email    : mail@gmail.com
+Telegram : @faillytale
+Gmail    : faillytale@gmail.com
 GitHub   : github.com/failytale
 ```
 
